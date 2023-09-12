@@ -1,2 +1,0 @@
-# default template
-hw1
