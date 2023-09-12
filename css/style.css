@@ -130,7 +130,7 @@ button {
 .hero-container {
   position: relative;
   padding: 381px 40px 40px;
-  background-image: url(/images/main-background.jpg);
+  background-image: url(./images/main-background.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
